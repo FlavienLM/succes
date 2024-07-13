@@ -1,0 +1,33 @@
+.navbar {
+    margin: 0;
+    padding: 0;
+   float: right;
+}
+
+.navbar-li {
+    display: inline;
+    padding-right: 30px;
+}
+
+
+
+
+.navbar-button {
+    background:none;
+    color: inherit;
+	border: none;
+    font: inherit;
+    outline: inherit;   
+    cursor: pointer;
+}
+
+
+
+.utilisateurIcone {
+    background-color: red;
+}
+
+.logo {
+    font-size: 30px;
+    padding-left: 50px;
+}
